@@ -1,0 +1,9 @@
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\obj\Debug\HTMLAgilityPackScreenScraper.csprojResolveAssemblyReference.cache
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HTMLAgilityPackScreenScraper.dll.config
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HTMLAgilityPackScreenScraper.dll
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HTMLAgilityPackScreenScraper.pdb
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HtmlAgilityPack.dll
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HtmlAgilityPack.pdb
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\bin\HtmlAgilityPack.xml
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\obj\Debug\HTMLAgilityPackScreenScraper.dll
+c:\users\dag\documents\visual studio 2013\Projects\HTMLAgilityPackScreenScraper\HTMLAgilityPackScreenScraper\obj\Debug\HTMLAgilityPackScreenScraper.pdb
