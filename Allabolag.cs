@@ -2,28 +2,22 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 using HtmlAgilityPack;
 
 namespace HTMLAgilityPackScreenScraper
 {
-    public partial class MyScraper : System.Web.UI.Page
+    public class Allabolag : Interface1
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        public void ClickMeButton_Click(object sender, EventArgs e)
+        public void TestCompany()
         {
             var getHtmlWeb = new HtmlWeb();
-	        var document = getHtmlWeb.Load("http://www.allabolag.se/" + InputTextBox.Text);
+            long orgNr = 5565995239;
+            var document = getHtmlWeb.Load("http://www.allabolag.se/" + orgNr );
             var span = document.DocumentNode.SelectNodes("//span");
             //var td = document.DocumentNode.SelectNodes("//td");
             //var metaTags = document.DocumentNode.SelectNodes("//meta");
-	        int counter = 1;    
- 
+            int counter = 1;
+
             //if (metaTags != null)
             //{
             //    foreach (var tag in metaTags)
@@ -51,8 +45,6 @@ namespace HTMLAgilityPackScreenScraper
                     }
                 }
             }
-
-        
-      }
         }
     }
+}
